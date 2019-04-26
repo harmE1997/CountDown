@@ -1,0 +1,30 @@
+F:\CountDown\CountDown\bin\Debug\CountDown.exe.config
+F:\CountDown\CountDown\bin\Debug\CountDown.exe
+F:\CountDown\CountDown\bin\Debug\CountDown.pdb
+F:\CountDown\CountDown\obj\Debug\CountDown.csprojAssemblyReference.cache
+F:\CountDown\CountDown\obj\Debug\CountDown.Form1.resources
+F:\CountDown\CountDown\obj\Debug\CountDown.Properties.Resources.resources
+F:\CountDown\CountDown\obj\Debug\CountDown.csproj.GenerateResource.cache
+F:\CountDown\CountDown\obj\Debug\CountDown.csproj.CoreCompileInputs.cache
+F:\CountDown\CountDown\obj\Debug\CountDown.exe
+F:\CountDown\CountDown\obj\Debug\CountDown.pdb
+E:\CountDown\CountDown\bin\Debug\CountDown.exe.config
+E:\CountDown\CountDown\bin\Debug\CountDown.exe
+E:\CountDown\CountDown\bin\Debug\CountDown.pdb
+E:\CountDown\CountDown\obj\Debug\CountDown.csprojAssemblyReference.cache
+E:\CountDown\CountDown\obj\Debug\CountDown.Form1.resources
+E:\CountDown\CountDown\obj\Debug\CountDown.Properties.Resources.resources
+E:\CountDown\CountDown\obj\Debug\CountDown.csproj.GenerateResource.cache
+E:\CountDown\CountDown\obj\Debug\CountDown.csproj.CoreCompileInputs.cache
+E:\CountDown\CountDown\obj\Debug\CountDown.exe
+E:\CountDown\CountDown\obj\Debug\CountDown.pdb
+C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\bin\Debug\CountDown.exe.config
+C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\bin\Debug\CountDown.exe
+C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\bin\Debug\CountDown.pdb
+C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.Form1.resources
+C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.Properties.Resources.resources
+C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.exe
+C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.pdb
