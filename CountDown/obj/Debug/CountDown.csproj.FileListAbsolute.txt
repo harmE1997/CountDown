@@ -28,3 +28,13 @@ C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\obj\Debu
 C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.exe
 C:\Users\Administrator\Documents\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.pdb
+C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\bin\Debug\CountDown.exe.config
+C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\bin\Debug\CountDown.exe
+C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\bin\Debug\CountDown.pdb
+C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.Form1.resources
+C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.exe
+C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.pdb

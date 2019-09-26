@@ -12,9 +12,9 @@ namespace CountDown
 {
     public partial class Form1 : Form
     {
-        DateTime final;
-        TimeSpan timeLeft;
-        string BaseCountDownText = "Weken       Dagen       Uren        Minuten      Seconden";
+        private DateTime final;
+        private TimeSpan timeLeft;
+        private string BaseCountDownText = "Weken       Dagen       Uren        Minuten      Seconden";
         public Form1()
         {
             InitializeComponent();
@@ -37,6 +37,7 @@ namespace CountDown
 
             CountDownTimer.Start();
             timeLeft = new TimeSpan(days, hours, mins, secs);
+            final = DateTime.MinValue;
         }
         private void btnStop_Click(object sender, EventArgs e)
         {
