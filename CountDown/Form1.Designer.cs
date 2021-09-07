@@ -300,7 +300,7 @@
             this.Controls.Add(this.btnStop);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
-            this.Text = "JSF Final Countdown";
+            this.Text = "Countdown";
             this.gbCountTo.ResumeLayout(false);
             this.gbCountTo.PerformLayout();
             this.gbSpecificTime.ResumeLayout(false);
