@@ -61,10 +61,9 @@
             // btnStart
             // 
             this.btnStart.ForeColor = System.Drawing.Color.Black;
-            this.btnStart.Location = new System.Drawing.Point(61, 82);
-            this.btnStart.Margin = new System.Windows.Forms.Padding(4);
+            this.btnStart.Location = new System.Drawing.Point(49, 66);
             this.btnStart.Name = "btnStart";
-            this.btnStart.Size = new System.Drawing.Size(228, 28);
+            this.btnStart.Size = new System.Drawing.Size(182, 22);
             this.btnStart.TabIndex = 0;
             this.btnStart.Text = "Start Countdown";
             this.btnStart.UseVisualStyleBackColor = true;
@@ -80,10 +79,9 @@
             this.btnStop.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnStop.AutoSize = true;
             this.btnStop.ForeColor = System.Drawing.Color.Black;
-            this.btnStop.Location = new System.Drawing.Point(398, 24);
-            this.btnStop.Margin = new System.Windows.Forms.Padding(4);
+            this.btnStop.Location = new System.Drawing.Point(318, 19);
             this.btnStop.Name = "btnStop";
-            this.btnStop.Size = new System.Drawing.Size(281, 28);
+            this.btnStop.Size = new System.Drawing.Size(225, 23);
             this.btnStop.TabIndex = 2;
             this.btnStop.Text = "Pause Countdown";
             this.btnStop.UseVisualStyleBackColor = true;
@@ -91,19 +89,17 @@
             // 
             // dtpDate
             // 
-            this.dtpDate.Location = new System.Drawing.Point(61, 22);
-            this.dtpDate.Margin = new System.Windows.Forms.Padding(4);
+            this.dtpDate.Location = new System.Drawing.Point(49, 18);
             this.dtpDate.Name = "dtpDate";
-            this.dtpDate.Size = new System.Drawing.Size(228, 22);
+            this.dtpDate.Size = new System.Drawing.Size(183, 20);
             this.dtpDate.TabIndex = 3;
             // 
             // dtpTime
             // 
             this.dtpTime.Format = System.Windows.Forms.DateTimePickerFormat.Time;
-            this.dtpTime.Location = new System.Drawing.Point(61, 52);
-            this.dtpTime.Margin = new System.Windows.Forms.Padding(4);
+            this.dtpTime.Location = new System.Drawing.Point(49, 42);
             this.dtpTime.Name = "dtpTime";
-            this.dtpTime.Size = new System.Drawing.Size(228, 22);
+            this.dtpTime.Size = new System.Drawing.Size(183, 20);
             this.dtpTime.TabIndex = 4;
             // 
             // lblCountDown
@@ -113,10 +109,9 @@
             this.lblCountDown.BackColor = System.Drawing.Color.Transparent;
             this.lblCountDown.Font = new System.Drawing.Font("Calibri", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCountDown.ForeColor = System.Drawing.Color.White;
-            this.lblCountDown.Location = new System.Drawing.Point(189, 445);
-            this.lblCountDown.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblCountDown.Location = new System.Drawing.Point(151, 356);
             this.lblCountDown.Name = "lblCountDown";
-            this.lblCountDown.Size = new System.Drawing.Size(92, 37);
+            this.lblCountDown.Size = new System.Drawing.Size(74, 29);
             this.lblCountDown.TabIndex = 5;
             this.lblCountDown.Text = "label1";
             // 
@@ -132,9 +127,11 @@
             this.gbCountTo.Controls.Add(this.dtpTime);
             this.gbCountTo.Controls.Add(this.btnStart);
             this.gbCountTo.ForeColor = System.Drawing.Color.White;
-            this.gbCountTo.Location = new System.Drawing.Point(12, 151);
+            this.gbCountTo.Location = new System.Drawing.Point(10, 121);
+            this.gbCountTo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.gbCountTo.Name = "gbCountTo";
-            this.gbCountTo.Size = new System.Drawing.Size(300, 161);
+            this.gbCountTo.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.gbCountTo.Size = new System.Drawing.Size(240, 129);
             this.gbCountTo.TabIndex = 6;
             this.gbCountTo.TabStop = false;
             this.gbCountTo.Text = "Count Down To";
@@ -145,9 +142,10 @@
             this.lblTime.AutoSize = true;
             this.lblTime.BackColor = System.Drawing.Color.Transparent;
             this.lblTime.ForeColor = System.Drawing.Color.White;
-            this.lblTime.Location = new System.Drawing.Point(16, 57);
+            this.lblTime.Location = new System.Drawing.Point(13, 46);
+            this.lblTime.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblTime.Name = "lblTime";
-            this.lblTime.Size = new System.Drawing.Size(39, 17);
+            this.lblTime.Size = new System.Drawing.Size(30, 13);
             this.lblTime.TabIndex = 8;
             this.lblTime.Text = "Time";
             // 
@@ -156,9 +154,10 @@
             this.lblDate.AutoSize = true;
             this.lblDate.BackColor = System.Drawing.Color.Transparent;
             this.lblDate.ForeColor = System.Drawing.Color.White;
-            this.lblDate.Location = new System.Drawing.Point(16, 27);
+            this.lblDate.Location = new System.Drawing.Point(13, 22);
+            this.lblDate.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblDate.Name = "lblDate";
-            this.lblDate.Size = new System.Drawing.Size(38, 17);
+            this.lblDate.Size = new System.Drawing.Size(30, 13);
             this.lblDate.TabIndex = 7;
             this.lblDate.Text = "Date";
             // 
@@ -178,9 +177,11 @@
             this.gbSpecificTime.Controls.Add(this.nudHours);
             this.gbSpecificTime.Controls.Add(this.nudDays);
             this.gbSpecificTime.ForeColor = System.Drawing.Color.White;
-            this.gbSpecificTime.Location = new System.Drawing.Point(784, 151);
+            this.gbSpecificTime.Location = new System.Drawing.Point(627, 121);
+            this.gbSpecificTime.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.gbSpecificTime.Name = "gbSpecificTime";
-            this.gbSpecificTime.Size = new System.Drawing.Size(248, 180);
+            this.gbSpecificTime.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.gbSpecificTime.Size = new System.Drawing.Size(198, 148);
             this.gbSpecificTime.TabIndex = 7;
             this.gbSpecificTime.TabStop = false;
             this.gbSpecificTime.Text = "Count Down Specific Time";
@@ -189,9 +190,10 @@
             // 
             this.lblSecs.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.lblSecs.AutoSize = true;
-            this.lblSecs.Location = new System.Drawing.Point(13, 107);
+            this.lblSecs.Location = new System.Drawing.Point(10, 88);
+            this.lblSecs.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblSecs.Name = "lblSecs";
-            this.lblSecs.Size = new System.Drawing.Size(63, 17);
+            this.lblSecs.Size = new System.Drawing.Size(49, 13);
             this.lblSecs.TabIndex = 8;
             this.lblSecs.Text = "Seconds";
             // 
@@ -199,9 +201,10 @@
             // 
             this.lblMins.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.lblMins.AutoSize = true;
-            this.lblMins.Location = new System.Drawing.Point(13, 79);
+            this.lblMins.Location = new System.Drawing.Point(10, 65);
+            this.lblMins.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblMins.Name = "lblMins";
-            this.lblMins.Size = new System.Drawing.Size(57, 17);
+            this.lblMins.Size = new System.Drawing.Size(44, 13);
             this.lblMins.TabIndex = 7;
             this.lblMins.Text = "Minutes";
             // 
@@ -209,9 +212,10 @@
             // 
             this.lblHours.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.lblHours.AutoSize = true;
-            this.lblHours.Location = new System.Drawing.Point(13, 51);
+            this.lblHours.Location = new System.Drawing.Point(10, 43);
+            this.lblHours.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblHours.Name = "lblHours";
-            this.lblHours.Size = new System.Drawing.Size(46, 17);
+            this.lblHours.Size = new System.Drawing.Size(35, 13);
             this.lblHours.TabIndex = 6;
             this.lblHours.Text = "Hours";
             // 
@@ -219,9 +223,10 @@
             // 
             this.lblDays.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.lblDays.AutoSize = true;
-            this.lblDays.Location = new System.Drawing.Point(13, 23);
+            this.lblDays.Location = new System.Drawing.Point(10, 20);
+            this.lblDays.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblDays.Name = "lblDays";
-            this.lblDays.Size = new System.Drawing.Size(40, 17);
+            this.lblDays.Size = new System.Drawing.Size(31, 13);
             this.lblDays.TabIndex = 5;
             this.lblDays.Text = "Days";
             // 
@@ -230,9 +235,10 @@
             this.btnCountSpecific.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.btnCountSpecific.AutoSize = true;
             this.btnCountSpecific.ForeColor = System.Drawing.Color.Black;
-            this.btnCountSpecific.Location = new System.Drawing.Point(6, 132);
+            this.btnCountSpecific.Location = new System.Drawing.Point(5, 108);
+            this.btnCountSpecific.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnCountSpecific.Name = "btnCountSpecific";
-            this.btnCountSpecific.Size = new System.Drawing.Size(236, 27);
+            this.btnCountSpecific.Size = new System.Drawing.Size(189, 23);
             this.btnCountSpecific.TabIndex = 4;
             this.btnCountSpecific.Text = "Start Countdown";
             this.btnCountSpecific.UseVisualStyleBackColor = true;
@@ -242,45 +248,50 @@
             // 
             this.nudSecs.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.nudSecs.AutoSize = true;
-            this.nudSecs.Location = new System.Drawing.Point(82, 105);
+            this.nudSecs.Location = new System.Drawing.Point(66, 86);
+            this.nudSecs.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.nudSecs.Name = "nudSecs";
-            this.nudSecs.Size = new System.Drawing.Size(160, 22);
+            this.nudSecs.Size = new System.Drawing.Size(128, 20);
             this.nudSecs.TabIndex = 3;
             // 
             // nudMins
             // 
             this.nudMins.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.nudMins.AutoSize = true;
-            this.nudMins.Location = new System.Drawing.Point(82, 77);
+            this.nudMins.Location = new System.Drawing.Point(66, 64);
+            this.nudMins.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.nudMins.Name = "nudMins";
-            this.nudMins.Size = new System.Drawing.Size(160, 22);
+            this.nudMins.Size = new System.Drawing.Size(128, 20);
             this.nudMins.TabIndex = 2;
             // 
             // nudHours
             // 
             this.nudHours.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.nudHours.AutoSize = true;
-            this.nudHours.Location = new System.Drawing.Point(82, 49);
+            this.nudHours.Location = new System.Drawing.Point(66, 41);
+            this.nudHours.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.nudHours.Name = "nudHours";
-            this.nudHours.Size = new System.Drawing.Size(160, 22);
+            this.nudHours.Size = new System.Drawing.Size(128, 20);
             this.nudHours.TabIndex = 1;
             // 
             // nudDays
             // 
             this.nudDays.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.nudDays.AutoSize = true;
-            this.nudDays.Location = new System.Drawing.Point(82, 21);
+            this.nudDays.Location = new System.Drawing.Point(66, 19);
+            this.nudDays.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.nudDays.Name = "nudDays";
-            this.nudDays.Size = new System.Drawing.Size(160, 22);
+            this.nudDays.Size = new System.Drawing.Size(128, 20);
             this.nudDays.TabIndex = 0;
             // 
             // btnResume
             // 
             this.btnResume.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnResume.AutoSize = true;
-            this.btnResume.Location = new System.Drawing.Point(398, 59);
+            this.btnResume.Location = new System.Drawing.Point(318, 47);
+            this.btnResume.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnResume.Name = "btnResume";
-            this.btnResume.Size = new System.Drawing.Size(281, 33);
+            this.btnResume.Size = new System.Drawing.Size(225, 26);
             this.btnResume.TabIndex = 8;
             this.btnResume.Text = "Resume Countdown";
             this.btnResume.UseVisualStyleBackColor = true;
@@ -288,17 +299,17 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1045, 554);
+            this.ClientSize = new System.Drawing.Size(836, 443);
             this.Controls.Add(this.btnResume);
             this.Controls.Add(this.gbSpecificTime);
             this.Controls.Add(this.gbCountTo);
             this.Controls.Add(this.lblCountDown);
             this.Controls.Add(this.btnStop);
-            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Countdown";
             this.gbCountTo.ResumeLayout(false);

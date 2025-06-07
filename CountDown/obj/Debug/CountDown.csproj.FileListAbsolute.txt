@@ -38,3 +38,14 @@ C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\o
 C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.exe
 C:\Users\Administrator\Documents\GitHub\Small Own Software\CountDown\CountDown\obj\Debug\CountDown.pdb
+C:\Users\Harm\Documents\Github\CountDown\CountDown\bin\Debug\CountDown.exe.config
+C:\Users\Harm\Documents\Github\CountDown\CountDown\bin\Debug\CountDown.exe
+C:\Users\Harm\Documents\Github\CountDown\CountDown\bin\Debug\CountDown.pdb
+C:\Users\Harm\Documents\Github\CountDown\CountDown\obj\Debug\CountDown.csproj.AssemblyReference.cache
+C:\Users\Harm\Documents\Github\CountDown\CountDown\obj\Debug\CountDown.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harm\Documents\Github\CountDown\CountDown\obj\Debug\CountDown.Form1.resources
+C:\Users\Harm\Documents\Github\CountDown\CountDown\obj\Debug\CountDown.Properties.Resources.resources
+C:\Users\Harm\Documents\Github\CountDown\CountDown\obj\Debug\CountDown.csproj.GenerateResource.cache
+C:\Users\Harm\Documents\Github\CountDown\CountDown\obj\Debug\CountDown.csproj.CoreCompileInputs.cache
+C:\Users\Harm\Documents\Github\CountDown\CountDown\obj\Debug\CountDown.exe
+C:\Users\Harm\Documents\Github\CountDown\CountDown\obj\Debug\CountDown.pdb
